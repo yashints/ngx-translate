@@ -1,0 +1,6 @@
+{
+    "Title": "Demo de traducción",
+    "WelcomeMessage": "Querido {{name}}, bienvenido a la aplicación de demostración internacional",
+    "English": "Inglés",
+    "Spanish": "Español"
+}
